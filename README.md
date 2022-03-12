@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kessie2862
+- 👋 Hi, I’m Prosper Kessie
 - 👀 I’m interested in ... exploring new stuffs
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...javascript and React js
 - 💞️ I’m looking to collaborate on ... new developers
 - 📫 How to reach me ... kayp3477@gmail.com
 
