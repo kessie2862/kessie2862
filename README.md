@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/peekay_codes" target="blank"><img src="https://img.shields.io/twitter/follow/peekay_codes?logo=twitter&style=for-the-badge" alt="peekay_codes" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **kayp3477@gmail.com**
+- 📫 How to reach me **pierres717@gmail.com**
 
 - ⚡ Fun fact **I have a good sense of humor**
 
