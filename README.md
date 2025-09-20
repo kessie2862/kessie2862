@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/peekay_codes" target="blank"><img src="https://img.shields.io/twitter/follow/peekay_codes?logo=twitter&style=for-the-badge" alt="peekay_codes" /></a> </p>
 
-- 🌱 I’m currently learning **graphql**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **Web Deveplopment**
 
