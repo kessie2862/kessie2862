@@ -122,18 +122,14 @@
   </tr>
 </table>
 
----
 
-<h3 align="left">📊 GitHub Stats</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kessie2862&show_icons=true&locale=en&layout=compact" alt="kessie2862" />
-</p>
+<!-- <h3 align="left">📊 GitHub Stats</h3> -->
 
 <!-- <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kessie2862&show_icons=true&locale=en" alt="kessie2862" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kessie2862&show_icons=true&locale=en&layout=compact" alt="kessie2862" />
 </p> -->
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kessie2862&" alt="kessie2862" />
-</p>
+</p> -->
