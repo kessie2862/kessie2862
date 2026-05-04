@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kessie2862&label=Profile%20views&color=0e75b6&style=flat" alt="kessie2862" /> </p>
 
-- 🌱 I'm currently learning **React-Native**
+- 🌱 I'm currently learning **Docker**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **pierres717@gmail.com**
 - ⚡ Fun fact: **I have a good sense of humor**
